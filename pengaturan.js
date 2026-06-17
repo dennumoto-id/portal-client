@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "X Studio",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: ""
+    googleApiKey: "AQ.Ab8RN6LGQkTTKljJmpj6FbztlUX0P1ZMNUsb76HDK983vYjsBw"
 };
