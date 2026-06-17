@@ -5,7 +5,7 @@
 
 const CONFIG_APP = {
     // 1. Nama Studio Foto Anda (Akan tampil di header dan portal klien)
-    namaVendor: "X Studio",
+    namaVendor: "X Studioo",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
     googleApiKey: "AQ.Ab8RN6LGQkTTKljJmpj6FbztlUX0P1ZMNUsb76HDK983vYjsBw"
