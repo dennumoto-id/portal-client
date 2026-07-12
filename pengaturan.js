@@ -5,8 +5,9 @@
 
 const CONFIG_APP = {
     // 1. Nama Studio Foto Anda (Akan tampil di header dan portal klien)
-    namaVendor: "X Studioo",
+    namaVendor: "Portal Client",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyCkZ5dAPW90ukin14ggwUhyl-bsW1HYatU"
+    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    whatsappAdmin: "6282117102831" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
